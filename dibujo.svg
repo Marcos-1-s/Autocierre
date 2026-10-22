@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="150" viewBox="0 0 300 150">
+    <rect width="300" height="150" fill="#dceeff"/>
+    <circle cx="75" cy="75" r="40" fill="#3978c5"/>
+    <text x="135" y="82" font-size="20" fill="#222">HTML5</text>
+</svg>
